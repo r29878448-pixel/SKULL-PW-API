@@ -4,7 +4,7 @@ compatibility_date = "2024-01-01"
 
 # Environment variables (set via wrangler secret)
 [vars]
-TURSO_DB_URL = "libsql://skullpwapi-ironskullx.aws-ap-south-1.turso.io"
+TURSO_DB_URL = "libsql://rishav-rishav79.aws-ap-south-1.turso.io"
 
 # Secrets to set:
 # wrangler secret put TURSO_DB_TOKEN
